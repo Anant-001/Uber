@@ -13,7 +13,7 @@ export default function PromoGrid() {
             >
                 <img
                     className="h-52 w-full object-cover"
-                    src="/public/Airport-rides.webp"
+                    src="/Airport-rides.webp"
                     alt="Make money by driving"
                 />
                 <div className="p-6">

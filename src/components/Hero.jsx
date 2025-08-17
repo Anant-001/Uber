@@ -68,7 +68,7 @@ export default function Hero() {
                 <img
                     alt="Ride illustration"
                     className="w-full h-full object-cover opacity-80"
-                    src="/public/travel-ilustra.webp"
+                    src="/travel-ilustra.webp"
                 />
                 <div className="absolute bottom-4 left-4 right-4 rounded-xl bg-black/50 border border-white/10 p-4">
                     <p className="text-sm text-gray-300">
