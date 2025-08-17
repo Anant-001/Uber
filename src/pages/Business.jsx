@@ -11,7 +11,7 @@ export default function Business() {
                     <button className="btn btn-primary">Time to get started</button>
                 </div>
                 <img
-                    src="/public/business/Business.webp"
+                    src="/business/Business.webp"
                     alt="Uber Business"
                     className="rounded-xl w-full object-cover"
                 />
@@ -36,15 +36,15 @@ export default function Business() {
                 <h2 className="text-2xl font-semibold">How companies leverage Uber for Business</h2>
                 <div className="grid grid-cols-3 gap-8">
                     <div>
-                        <img src="/public/business/ilo-content_connected-01-360x202_2x.webp" alt="Business travel" className="mx-auto" />
+                        <img src="/business/ilo-content_connected-01-360x202_2x.webp" alt="Business travel" className="mx-auto" />
                         <p className="mt-2">Business travel</p>
                     </div>
                     <div>
-                        <img src="/public/business/ilo-content_connected-02-360x202_2x.webp" alt="Courtesy rides" className="mx-auto" />
+                        <img src="/business/ilo-content_connected-02-360x202_2x.webp" alt="Courtesy rides" className="mx-auto" />
                         <p className="mt-2">Courtesy rides</p>
                     </div>
                     <div>
-                        <img src="/public/business/ilo-content_connected-03-360x202_2x.webp" alt="Meal programs" className="mx-auto" />
+                        <img src="/business/ilo-content_connected-03-360x202_2x.webp" alt="Meal programs" className="mx-auto" />
                         <p className="mt-2">Meal programs</p>
                     </div>
                 </div>
@@ -55,15 +55,15 @@ export default function Business() {
                 <h2 className="text-2xl font-semibold">Get started with no upfront costs</h2>
                 <div className="grid md:grid-cols-3 gap-8">
                     <div>
-                        <img src="/public/business/img-resource-1-360x360_2x.webp" alt="Customize" className="rounded-lg" />
+                        <img src="/business/img-resource-1-360x360_2x.webp" alt="Customize" className="rounded-lg" />
                         <p className="mt-2">Customize your travel and meal programs</p>
                     </div>
                     <div>
-                        <img src="/public/business/img-resource-2-360x360_2x.webp" alt="Onboard" className="rounded-lg" />
+                        <img src="/business/img-resource-2-360x360_2x.webp" alt="Onboard" className="rounded-lg" />
                         <p className="mt-2">Onboard people at your own pace</p>
                     </div>
                     <div>
-                        <img src="/public/business/img-resource-3-360x360_2x.jpg" alt="Setup" className="rounded-lg" />
+                        <img src="/business/img-resource-3-360x360_2x.jpg" alt="Setup" className="rounded-lg" />
                         <p className="mt-2">Set up amenities for customers</p>
                     </div>
                 </div>
@@ -75,9 +75,9 @@ export default function Business() {
                     Join over 200,000 companies working with us, including more than half of the Fortune 500
                 </p>
                 <div className="flex justify-center gap-10">
-                    <img src="/public/business/logo1.png" alt="Zoom" className="h-8" />
-                    <img src="/public/business/logo2.png" alt="Coca-Cola" className="h-8" />
-                    <img src="/public/business/logo3.jpg" alt="Samsung" className="h-8" />
+                    <img src="/business/logo1.png" alt="Zoom" className="h-8" />
+                    <img src="/business/logo2.png" alt="Coca-Cola" className="h-8" />
+                    <img src="/business/logo3.jpg" alt="Samsung" className="h-8" />
                 </div>
             </div>
 
@@ -102,15 +102,15 @@ export default function Business() {
             {/* Interested in learning more */}
             <div className="grid md:grid-cols-3 gap-6">
                 <div>
-                    <img src="/public/business/ilo-business_travel-360x204-expandable.svg" alt="Carbon footprint" className="rounded-lg" />
+                    <img src="/business/ilo-business_travel-360x204-expandable.svg" alt="Carbon footprint" className="rounded-lg" />
                     <p className="mt-2">How to reduce the carbon footprint of business travel</p>
                 </div>
                 <div>
-                    <img src="/public/business/ilo-courtesy_rides-360x204-expandable.svg" alt="Employee perks" className="rounded-lg" />
+                    <img src="/business/ilo-courtesy_rides-360x204-expandable.svg" alt="Employee perks" className="rounded-lg" />
                     <p className="mt-2">The perks of benefits your employees will use</p>
                 </div>
                 <div>
-                    <img src="/public/business/ilo-meal_programs-360x204-expandable.svg" alt="Sustainability" className="rounded-lg" />
+                    <img src="/business/ilo-meal_programs-360x204-expandable.svg" alt="Sustainability" className="rounded-lg" />
                     <p className="mt-2">The road to sustainability: executive perspectives</p>
                 </div>
             </div>

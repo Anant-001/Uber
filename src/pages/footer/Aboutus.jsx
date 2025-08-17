@@ -42,7 +42,7 @@ const Aboutus = () => {
                 {/* Sustainability */}
                 <div className="grid md:grid-cols-2 gap-8 items-center px-6 lg:px-16">
                     <img
-                        src="/public/Sustainability.jpg"
+                        src="/Sustainability.jpg"
                         alt="Sustainability"
                         className="rounded-xl object-cover w-full h-80"
                     />
